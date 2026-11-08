@@ -4,19 +4,19 @@ A responsive movie discovery web application built with **React** and **Vite**. 
 
 This project was built as part of my journey learning modern React development and working with external APIs and backend services.
 
-## ✨ Features
+##  Features
 
-* 🔎 Search for movies using the TMDB API
-* 🎞️ Browse popular movies
-* 📈 Track trending movie searches
-* ⚡ Debounced search to reduce unnecessary API requests
-* 🌀 Loading states and spinner
-* 🎬 Reusable movie card components
-* 📱 Responsive design
-* 🌐 External API integration
-* ☁️ Appwrite database integration
+*  Search for movies using the TMDB API
+*  Browse popular movies
+*  Track trending movie searches
+*  Debounced search to reduce unnecessary API requests
+*  Loading states and spinner
+*  Reusable movie card components
+*  Responsive design
+*  External API integration
+*  Appwrite database integration
 
-## 🛠️ Technologies
+##  Technologies
 
 * **React**
 * **Vite**
@@ -27,7 +27,7 @@ This project was built as part of my journey learning modern React development a
 * **ESLint**
 
 
-## 🚀 Getting Started
+##  Getting Started
 
 
 
@@ -59,7 +59,7 @@ The application will then be available through the local development URL shown i
 
 
 
-## 📚 What I Learned
+##  What I Learned
 
 Through this project, I practiced:
 
@@ -74,7 +74,7 @@ Through this project, I practiced:
 * Organizing a React project
 * Handling loading and empty states
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Add movie detail pages
 * Add genre filtering
@@ -87,4 +87,3 @@ Through this project, I practiced:
 
 **Navid Rahimi**
 
-This project was built as part of my journey learning React and modern frontend development.
